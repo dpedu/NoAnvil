@@ -1,0 +1,4 @@
+name: NoAnvil
+main: me.dpedu.noanvil.NoAnvil
+version: 1.0
+commands:
